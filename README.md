@@ -1,2 +1,2 @@
-# dio-css-projeto
-Projeto de CSS
+# Pojeto CSS
+Projeto do modulo de HTML/CSS do Bootcamp TQI Fullstack Developer da Dio.
